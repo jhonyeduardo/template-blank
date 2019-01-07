@@ -14,6 +14,6 @@ import { AppComponent } from './app.component';
     ThfModule
   ],
   providers: [],
-  bootstrap: [AppComponent]
+  bootstrap: [ AppComponent ]
 })
 export class AppModule { }
